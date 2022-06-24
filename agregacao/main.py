@@ -14,6 +14,7 @@ carrinho.inserir_produto(produto1)
 carrinho.inserir_produto(produto1)
 carrinho.inserir_produto(produto2)
 carrinho.inserir_produto(produto3)
+carrinho.inserir_produto(produto3)
 
 carrinho.lista_produto()
 print(carrinho.soma_total())
