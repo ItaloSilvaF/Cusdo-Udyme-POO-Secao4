@@ -1,4 +1,4 @@
-from classe_abstrata.classes.conta import Conta
+from conta import Conta
 
 
 class ContaCorrente(Conta):

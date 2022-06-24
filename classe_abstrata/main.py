@@ -1,5 +1,5 @@
-from classe_abstrata.classes.conta_poupanca import ContaPoupanca
-from classe_abstrata.classes.conta_corrente import ContaCorrente
+from CursoPythonPOO.classe_abstrata.classes.conta_poupanca import ContaPoupanca
+from CursoPythonPOO.classe_abstrata.classes.conta_corrente import ContaCorrente
 
 
 cp = ContaPoupanca(1160, 1234, 0)
